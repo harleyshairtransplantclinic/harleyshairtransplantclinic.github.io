@@ -1,8 +1,7 @@
 ---
 title: Best Hair Transplant in Mumbai
 feature_text: |
-  ## HARLEYS HAIR TRANSPLANT CLINIC
-  At Harleys Hair Transplant Clinic in Mumbai, Internationally trained and experienced Top Hair Transplant Surgeons along with dedicated staff work with the sole intention of giving our clients the Top Hair Transplant results in India and Dubai, We take every care to provide the best Hair Transplant Surgical procedure and stay more effective, comfortable and safe.
+ 
 feature_image: "https://www.harleyshairtransplant.in/wp-content/uploads/2020/06/main_bg.jpg"
 excerpt: "No need to worry now! Harleys Clinic, the [best hair transplant clinic in Mumbai](https://www.harleyshairtransplant.in/) is here to save you! At Harleys Clinic, our best hair transplant doctor Dr. Sumit offers you the Best Hair treatment in Mumbai."
 ---
@@ -11,6 +10,8 @@ No need to worry now! Harleys Clinic, the [best hair transplant clinic in Mumbai
 
 
 ## Harleys Best Hair Transplant Clinic in Mumbai
+
+At Harleys Hair Transplant Clinic in Mumbai, Internationally trained and experienced Top Hair Transplant Surgeons along with dedicated staff work with the sole intention of giving our clients the Top Hair Transplant results in India and Dubai, We take every care to provide the best Hair Transplant Surgical procedure and stay more effective, comfortable and safe.
 
 People often develop stress and depression due to hair loss. So, if you are experiencing no new hair growth on the areas of the head where you have lost a certain amount of hair recently, it is advised to visit Harleys Clinic NOW!
 
